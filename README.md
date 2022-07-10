@@ -93,6 +93,8 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 Made with :heart: by <a href="https://github.com/paritoshtripathi935" target="_blank">Paritosh Tripathi</a>
 
+For more info - [Notion](https://www.notion.so/paritoshtripathi/3d1839218e434e0cb37fc40a3da9f4bc?v=101f9294b5b6400e9fd74ee19f4dbc24)
+
 &#xa0;
 
 <a href="#top">Back to top</a>
